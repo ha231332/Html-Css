@@ -1,0 +1,9 @@
+header{
+background-color: red; height: 100px;
+}
+h1{
+  font-size: 24px; color: white;
+}
+main{
+  background-color: green; font-size: 18px; height: 100px; color: white;
+}
