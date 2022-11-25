@@ -1,0 +1,7 @@
+div{
+  display: inline;
+}
+
+span{
+  width: 200px; height: 100px; background-color: yellow; display: block
+}
